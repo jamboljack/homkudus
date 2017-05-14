@@ -1,0 +1,1938 @@
+Array
+(
+    [cod] => 200
+    [message] => 0.0162
+    [cnt] => 38
+    [list] => Array
+        (
+            [0] => Array
+                (
+                    [dt] => 1491976800
+                    [main] => Array
+                        (
+                            [temp] => 305.02
+                            [temp_min] => 302.98
+                            [temp_max] => 305.02
+                            [pressure] => 1010.98
+                            [sea_level] => 1021.71
+                            [grnd_level] => 1010.98
+                            [humidity] => 88
+                            [temp_kf] => 2.04
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 802
+                                    [main] => Clouds
+                                    [description] => scattered clouds
+                                    [icon] => 03d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 48
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 0.81
+                            [deg] => 135.006
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-12 06:00:00
+                )
+
+            [1] => Array
+                (
+                    [dt] => 1491987600
+                    [main] => Array
+                        (
+                            [temp] => 304.52
+                            [temp_min] => 302.993
+                            [temp_max] => 304.52
+                            [pressure] => 1010.09
+                            [sea_level] => 1020.76
+                            [grnd_level] => 1010.09
+                            [humidity] => 83
+                            [temp_kf] => 1.53
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 801
+                                    [main] => Clouds
+                                    [description] => few clouds
+                                    [icon] => 02d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 12
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.03
+                            [deg] => 56.5017
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-12 09:00:00
+                )
+
+            [2] => Array
+                (
+                    [dt] => 1491998400
+                    [main] => Array
+                        (
+                            [temp] => 301.17
+                            [temp_min] => 300.147
+                            [temp_max] => 301.17
+                            [pressure] => 1012.06
+                            [sea_level] => 1022.64
+                            [grnd_level] => 1012.06
+                            [humidity] => 94
+                            [temp_kf] => 1.02
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 800
+                                    [main] => Clear
+                                    [description] => clear sky
+                                    [icon] => 01n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 0
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.52
+                            [deg] => 48.0005
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-12 12:00:00
+                )
+
+            [3] => Array
+                (
+                    [dt] => 1492009200
+                    [main] => Array
+                        (
+                            [temp] => 299.14
+                            [temp_min] => 298.628
+                            [temp_max] => 299.14
+                            [pressure] => 1013.32
+                            [sea_level] => 1024.03
+                            [grnd_level] => 1013.32
+                            [humidity] => 100
+                            [temp_kf] => 0.51
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 800
+                                    [main] => Clear
+                                    [description] => clear sky
+                                    [icon] => 02n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 8
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.41
+                            [deg] => 66.5031
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-12 15:00:00
+                )
+
+            [4] => Array
+                (
+                    [dt] => 1492020000
+                    [main] => Array
+                        (
+                            [temp] => 298.084
+                            [temp_min] => 298.084
+                            [temp_max] => 298.084
+                            [pressure] => 1012.78
+                            [sea_level] => 1023.44
+                            [grnd_level] => 1012.78
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 801
+                                    [main] => Clouds
+                                    [description] => few clouds
+                                    [icon] => 02n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 12
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.61
+                            [deg] => 114.503
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-12 18:00:00
+                )
+
+            [5] => Array
+                (
+                    [dt] => 1492030800
+                    [main] => Array
+                        (
+                            [temp] => 297.08
+                            [temp_min] => 297.08
+                            [temp_max] => 297.08
+                            [pressure] => 1012.49
+                            [sea_level] => 1023.22
+                            [grnd_level] => 1012.49
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 48
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.49
+                            [deg] => 164.504
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 1.015
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-12 21:00:00
+                )
+
+            [6] => Array
+                (
+                    [dt] => 1492041600
+                    [main] => Array
+                        (
+                            [temp] => 297.818
+                            [temp_min] => 297.818
+                            [temp_max] => 297.818
+                            [pressure] => 1013.57
+                            [sea_level] => 1024.25
+                            [grnd_level] => 1013.57
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 44
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.12
+                            [deg] => 186.501
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 2.885
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-13 00:00:00
+                )
+
+            [7] => Array
+                (
+                    [dt] => 1492052400
+                    [main] => Array
+                        (
+                            [temp] => 302.284
+                            [temp_min] => 302.284
+                            [temp_max] => 302.284
+                            [pressure] => 1013.61
+                            [sea_level] => 1024.21
+                            [grnd_level] => 1013.61
+                            [humidity] => 92
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 800
+                                    [main] => Clear
+                                    [description] => clear sky
+                                    [icon] => 01d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 0
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.87
+                            [deg] => 149.002
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-13 03:00:00
+                )
+
+            [8] => Array
+                (
+                    [dt] => 1492063200
+                    [main] => Array
+                        (
+                            [temp] => 303.067
+                            [temp_min] => 303.067
+                            [temp_max] => 303.067
+                            [pressure] => 1011.06
+                            [sea_level] => 1021.74
+                            [grnd_level] => 1011.06
+                            [humidity] => 90
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 8
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.46
+                            [deg] => 57.5045
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 0.985
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-13 06:00:00
+                )
+
+            [9] => Array
+                (
+                    [dt] => 1492074000
+                    [main] => Array
+                        (
+                            [temp] => 302.503
+                            [temp_min] => 302.503
+                            [temp_max] => 302.503
+                            [pressure] => 1010.29
+                            [sea_level] => 1020.96
+                            [grnd_level] => 1010.29
+                            [humidity] => 85
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 12
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.97
+                            [deg] => 12.0037
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 1.02
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-13 09:00:00
+                )
+
+            [10] => Array
+                (
+                    [dt] => 1492084800
+                    [main] => Array
+                        (
+                            [temp] => 300.047
+                            [temp_min] => 300.047
+                            [temp_max] => 300.047
+                            [pressure] => 1011.97
+                            [sea_level] => 1022.69
+                            [grnd_level] => 1011.97
+                            [humidity] => 95
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 800
+                                    [main] => Clear
+                                    [description] => clear sky
+                                    [icon] => 01n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 0
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.82
+                            [deg] => 13.5087
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-13 12:00:00
+                )
+
+            [11] => Array
+                (
+                    [dt] => 1492095600
+                    [main] => Array
+                        (
+                            [temp] => 298.872
+                            [temp_min] => 298.872
+                            [temp_max] => 298.872
+                            [pressure] => 1014.02
+                            [sea_level] => 1024.55
+                            [grnd_level] => 1014.02
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 802
+                                    [main] => Clouds
+                                    [description] => scattered clouds
+                                    [icon] => 03n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 44
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.57
+                            [deg] => 152.001
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-13 15:00:00
+                )
+
+            [12] => Array
+                (
+                    [dt] => 1492106400
+                    [main] => Array
+                        (
+                            [temp] => 297.744
+                            [temp_min] => 297.744
+                            [temp_max] => 297.744
+                            [pressure] => 1012.87
+                            [sea_level] => 1023.62
+                            [grnd_level] => 1012.87
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 24
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.94
+                            [deg] => 169.502
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 0.08
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-13 18:00:00
+                )
+
+            [13] => Array
+                (
+                    [dt] => 1492117200
+                    [main] => Array
+                        (
+                            [temp] => 297.286
+                            [temp_min] => 297.286
+                            [temp_max] => 297.286
+                            [pressure] => 1012.47
+                            [sea_level] => 1023.21
+                            [grnd_level] => 1012.47
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 803
+                                    [main] => Clouds
+                                    [description] => broken clouds
+                                    [icon] => 04n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 56
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.92
+                            [deg] => 171.509
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-13 21:00:00
+                )
+
+            [14] => Array
+                (
+                    [dt] => 1492128000
+                    [main] => Array
+                        (
+                            [temp] => 298.23
+                            [temp_min] => 298.23
+                            [temp_max] => 298.23
+                            [pressure] => 1013.59
+                            [sea_level] => 1024.33
+                            [grnd_level] => 1013.59
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 801
+                                    [main] => Clouds
+                                    [description] => few clouds
+                                    [icon] => 02d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 20
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.01
+                            [deg] => 180.5
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-14 00:00:00
+                )
+
+            [15] => Array
+                (
+                    [dt] => 1492138800
+                    [main] => Array
+                        (
+                            [temp] => 302.829
+                            [temp_min] => 302.829
+                            [temp_max] => 302.829
+                            [pressure] => 1013.51
+                            [sea_level] => 1024.22
+                            [grnd_level] => 1013.51
+                            [humidity] => 85
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 801
+                                    [main] => Clouds
+                                    [description] => few clouds
+                                    [icon] => 02d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 24
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.61
+                            [deg] => 159.012
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-14 03:00:00
+                )
+
+            [16] => Array
+                (
+                    [dt] => 1492149600
+                    [main] => Array
+                        (
+                            [temp] => 301.928
+                            [temp_min] => 301.928
+                            [temp_max] => 301.928
+                            [pressure] => 1011.07
+                            [sea_level] => 1021.66
+                            [grnd_level] => 1011.07
+                            [humidity] => 88
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 24
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.61
+                            [deg] => 13.5004
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 0.35
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-14 06:00:00
+                )
+
+            [17] => Array
+                (
+                    [dt] => 1492160400
+                    [main] => Array
+                        (
+                            [temp] => 302.472
+                            [temp_min] => 302.472
+                            [temp_max] => 302.472
+                            [pressure] => 1010.11
+                            [sea_level] => 1020.78
+                            [grnd_level] => 1010.11
+                            [humidity] => 83
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 12
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.18
+                            [deg] => 349.504
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 1.29
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-14 09:00:00
+                )
+
+            [18] => Array
+                (
+                    [dt] => 1492171200
+                    [main] => Array
+                        (
+                            [temp] => 299.937
+                            [temp_min] => 299.937
+                            [temp_max] => 299.937
+                            [pressure] => 1011.39
+                            [sea_level] => 1022.1
+                            [grnd_level] => 1011.39
+                            [humidity] => 96
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 801
+                                    [main] => Clouds
+                                    [description] => few clouds
+                                    [icon] => 02n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 24
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.17
+                            [deg] => 354.004
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-14 12:00:00
+                )
+
+            [19] => Array
+                (
+                    [dt] => 1492182000
+                    [main] => Array
+                        (
+                            [temp] => 298.894
+                            [temp_min] => 298.894
+                            [temp_max] => 298.894
+                            [pressure] => 1012.95
+                            [sea_level] => 1023.75
+                            [grnd_level] => 1012.95
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 802
+                                    [main] => Clouds
+                                    [description] => scattered clouds
+                                    [icon] => 03n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 36
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.31
+                            [deg] => 323.502
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-14 15:00:00
+                )
+
+            [20] => Array
+                (
+                    [dt] => 1492192800
+                    [main] => Array
+                        (
+                            [temp] => 297.175
+                            [temp_min] => 297.175
+                            [temp_max] => 297.175
+                            [pressure] => 1012.44
+                            [sea_level] => 1023
+                            [grnd_level] => 1012.44
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 501
+                                    [main] => Rain
+                                    [description] => moderate rain
+                                    [icon] => 10n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 68
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.14
+                            [deg] => 159
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 3.26
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-14 18:00:00
+                )
+
+            [21] => Array
+                (
+                    [dt] => 1492203600
+                    [main] => Array
+                        (
+                            [temp] => 297.063
+                            [temp_min] => 297.063
+                            [temp_max] => 297.063
+                            [pressure] => 1011.64
+                            [sea_level] => 1022.36
+                            [grnd_level] => 1011.64
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 80
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.62
+                            [deg] => 158.502
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 2.37
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-14 21:00:00
+                )
+
+            [22] => Array
+                (
+                    [dt] => 1492214400
+                    [main] => Array
+                        (
+                            [temp] => 297.99
+                            [temp_min] => 297.99
+                            [temp_max] => 297.99
+                            [pressure] => 1012.94
+                            [sea_level] => 1023.69
+                            [grnd_level] => 1012.94
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 32
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.11
+                            [deg] => 167
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 0.27
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-15 00:00:00
+                )
+
+            [23] => Array
+                (
+                    [dt] => 1492225200
+                    [main] => Array
+                        (
+                            [temp] => 301.872
+                            [temp_min] => 301.872
+                            [temp_max] => 301.872
+                            [pressure] => 1013.23
+                            [sea_level] => 1024
+                            [grnd_level] => 1013.23
+                            [humidity] => 93
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 801
+                                    [main] => Clouds
+                                    [description] => few clouds
+                                    [icon] => 02d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 24
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.86
+                            [deg] => 135.001
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-15 03:00:00
+                )
+
+            [24] => Array
+                (
+                    [dt] => 1492236000
+                    [main] => Array
+                        (
+                            [temp] => 301.698
+                            [temp_min] => 301.698
+                            [temp_max] => 301.698
+                            [pressure] => 1011.03
+                            [sea_level] => 1021.49
+                            [grnd_level] => 1011.03
+                            [humidity] => 92
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 32
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.86
+                            [deg] => 33.0007
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 0.15
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-15 06:00:00
+                )
+
+            [25] => Array
+                (
+                    [dt] => 1492246800
+                    [main] => Array
+                        (
+                            [temp] => 302.297
+                            [temp_min] => 302.297
+                            [temp_max] => 302.297
+                            [pressure] => 1009.85
+                            [sea_level] => 1020.46
+                            [grnd_level] => 1009.85
+                            [humidity] => 84
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 20
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.31
+                            [deg] => 15.0035
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 0.11
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-15 09:00:00
+                )
+
+            [26] => Array
+                (
+                    [dt] => 1492257600
+                    [main] => Array
+                        (
+                            [temp] => 299.955
+                            [temp_min] => 299.955
+                            [temp_max] => 299.955
+                            [pressure] => 1011.24
+                            [sea_level] => 1021.87
+                            [grnd_level] => 1011.24
+                            [humidity] => 95
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 801
+                                    [main] => Clouds
+                                    [description] => few clouds
+                                    [icon] => 02n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 12
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.21
+                            [deg] => 16.5023
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-15 12:00:00
+                )
+
+            [27] => Array
+                (
+                    [dt] => 1492268400
+                    [main] => Array
+                        (
+                            [temp] => 298.623
+                            [temp_min] => 298.623
+                            [temp_max] => 298.623
+                            [pressure] => 1012.58
+                            [sea_level] => 1023.28
+                            [grnd_level] => 1012.58
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 800
+                                    [main] => Clear
+                                    [description] => clear sky
+                                    [icon] => 01n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 0
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.42
+                            [deg] => 32.5033
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-15 15:00:00
+                )
+
+            [28] => Array
+                (
+                    [dt] => 1492279200
+                    [main] => Array
+                        (
+                            [temp] => 298.115
+                            [temp_min] => 298.115
+                            [temp_max] => 298.115
+                            [pressure] => 1011.59
+                            [sea_level] => 1022.29
+                            [grnd_level] => 1011.59
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 801
+                                    [main] => Clouds
+                                    [description] => few clouds
+                                    [icon] => 02n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 20
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.67
+                            [deg] => 158.007
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-15 18:00:00
+                )
+
+            [29] => Array
+                (
+                    [dt] => 1492290000
+                    [main] => Array
+                        (
+                            [temp] => 296.926
+                            [temp_min] => 296.926
+                            [temp_max] => 296.926
+                            [pressure] => 1010.9
+                            [sea_level] => 1021.57
+                            [grnd_level] => 1010.9
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 0
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.11
+                            [deg] => 168.001
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 0.3
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-15 21:00:00
+                )
+
+            [30] => Array
+                (
+                    [dt] => 1492300800
+                    [main] => Array
+                        (
+                            [temp] => 298.244
+                            [temp_min] => 298.244
+                            [temp_max] => 298.244
+                            [pressure] => 1011.92
+                            [sea_level] => 1022.61
+                            [grnd_level] => 1011.92
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 801
+                                    [main] => Clouds
+                                    [description] => few clouds
+                                    [icon] => 02d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 24
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.41
+                            [deg] => 178.003
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-16 00:00:00
+                )
+
+            [31] => Array
+                (
+                    [dt] => 1492311600
+                    [main] => Array
+                        (
+                            [temp] => 303.053
+                            [temp_min] => 303.053
+                            [temp_max] => 303.053
+                            [pressure] => 1011.97
+                            [sea_level] => 1022.68
+                            [grnd_level] => 1011.97
+                            [humidity] => 84
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 801
+                                    [main] => Clouds
+                                    [description] => few clouds
+                                    [icon] => 02d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 12
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.86
+                            [deg] => 155.501
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-16 03:00:00
+                )
+
+            [32] => Array
+                (
+                    [dt] => 1492322400
+                    [main] => Array
+                        (
+                            [temp] => 302.2
+                            [temp_min] => 302.2
+                            [temp_max] => 302.2
+                            [pressure] => 1009.65
+                            [sea_level] => 1020.18
+                            [grnd_level] => 1009.65
+                            [humidity] => 90
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 56
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.12
+                            [deg] => 67.0023
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 1.06
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-16 06:00:00
+                )
+
+            [33] => Array
+                (
+                    [dt] => 1492333200
+                    [main] => Array
+                        (
+                            [temp] => 303.055
+                            [temp_min] => 303.055
+                            [temp_max] => 303.055
+                            [pressure] => 1008.84
+                            [sea_level] => 1019.47
+                            [grnd_level] => 1008.84
+                            [humidity] => 78
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 500
+                                    [main] => Rain
+                                    [description] => light rain
+                                    [icon] => 10d
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 48
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.51
+                            [deg] => 48.0005
+                        )
+
+                    [rain] => Array
+                        (
+                            [3h] => 0.63
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => d
+                        )
+
+                    [dt_txt] => 2017-04-16 09:00:00
+                )
+
+            [34] => Array
+                (
+                    [dt] => 1492344000
+                    [main] => Array
+                        (
+                            [temp] => 300.569
+                            [temp_min] => 300.569
+                            [temp_max] => 300.569
+                            [pressure] => 1010.56
+                            [sea_level] => 1021.07
+                            [grnd_level] => 1010.56
+                            [humidity] => 89
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 801
+                                    [main] => Clouds
+                                    [description] => few clouds
+                                    [icon] => 02n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 12
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 2.31
+                            [deg] => 46.5049
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-16 12:00:00
+                )
+
+            [35] => Array
+                (
+                    [dt] => 1492354800
+                    [main] => Array
+                        (
+                            [temp] => 298.833
+                            [temp_min] => 298.833
+                            [temp_max] => 298.833
+                            [pressure] => 1012.14
+                            [sea_level] => 1022.73
+                            [grnd_level] => 1012.14
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 801
+                                    [main] => Clouds
+                                    [description] => few clouds
+                                    [icon] => 02n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 12
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.81
+                            [deg] => 71.0003
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-16 15:00:00
+                )
+
+            [36] => Array
+                (
+                    [dt] => 1492365600
+                    [main] => Array
+                        (
+                            [temp] => 298.06
+                            [temp_min] => 298.06
+                            [temp_max] => 298.06
+                            [pressure] => 1011.33
+                            [sea_level] => 1022.06
+                            [grnd_level] => 1011.33
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 800
+                                    [main] => Clear
+                                    [description] => clear sky
+                                    [icon] => 01n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 0
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.66
+                            [deg] => 123.5
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-16 18:00:00
+                )
+
+            [37] => Array
+                (
+                    [dt] => 1492376400
+                    [main] => Array
+                        (
+                            [temp] => 297.355
+                            [temp_min] => 297.355
+                            [temp_max] => 297.355
+                            [pressure] => 1010.98
+                            [sea_level] => 1021.65
+                            [grnd_level] => 1010.98
+                            [humidity] => 100
+                            [temp_kf] => 0
+                        )
+
+                    [weather] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 800
+                                    [main] => Clear
+                                    [description] => clear sky
+                                    [icon] => 01n
+                                )
+
+                        )
+
+                    [clouds] => Array
+                        (
+                            [all] => 0
+                        )
+
+                    [wind] => Array
+                        (
+                            [speed] => 1.77
+                            [deg] => 152.011
+                        )
+
+                    [rain] => Array
+                        (
+                        )
+
+                    [sys] => Array
+                        (
+                            [pod] => n
+                        )
+
+                    [dt_txt] => 2017-04-16 21:00:00
+                )
+
+        )
+
+    [city] => Array
+        (
+            [id] => 1639215
+            [name] => Kudus
+            [coord] => Array
+                (
+                    [lat] => -6.8048
+                    [lon] => 110.8405
+                )
+
+            [country] => ID
+        )
+
+)
