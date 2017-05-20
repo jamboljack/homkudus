@@ -48,7 +48,6 @@ class Rateall extends CI_Controller {
 			if (count($Check_by_Date) == 0) {				
 				$this->rateall_model->insert_new_Date($room_id, $Dari);
 			}
-
 			// Tanggal Terakhir di Tambah 1
 			$Dari = date ("Y-m-d", strtotime("+1 day", strtotime($Dari)));
 		}
